@@ -1,4 +1,4 @@
-# Hangman python
+# Hangman Python
 
 Technologies
 - Python
